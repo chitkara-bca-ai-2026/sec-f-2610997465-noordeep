@@ -1,0 +1,1 @@
+a=(" 'Python Crash Course' by Eric Matthes (2019) Genre: Programming,'Automate the Boring Stuff' by Al Sweigart (2020) Genre: Programming,'Artificial Intelligence: A Modern Approach' by Stuart Russel (2021) Genre:AI,'Clean Code' by Robert C.Martin (2008) Genre:Software Engineering")
